@@ -1,5 +1,5 @@
 {
-  "version": 1795816876673,
+  "version": 1795816880492,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -64,6 +64,10 @@
     {
       "name": "curios-neoforge-9.6.1+1.21.1.jar",
       "sha256": "84188457b9ef22e74113f1856fca7ffeb1195445627bfdf976f2e3006f0f3f5b"
+    },
+    {
+      "name": "diegesis-neoforge-1.21.1-1.0.0-beta.19.4.jar",
+      "sha256": "bee4008962688e2d7b9263e7ec86c47ada1493cf775e7f5716bb4c71b7f3cb9f"
     },
     {
       "name": "e4all-neoforge-2.3.0.jar",
