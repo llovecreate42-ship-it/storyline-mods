@@ -1,5 +1,5 @@
 {
-  "version": 1795816997694,
+  "version": 1795817001075,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -196,6 +196,10 @@
     {
       "name": "supplementaries-1.21.1-4.1.4-neoforge.jar",
       "sha256": "04bf0c80070fdcafd4dfc2f8a259d32ec7abc7c31b7667e00d01d67e77d5c7f0"
+    },
+    {
+      "name": "tpshudneoforge-1.1.0.jar",
+      "sha256": "7952bdf4f818d3da1383eee199b1187cf5fccd9ddcc01398bb25fb5ae3a7918e"
     }
   ]
 }
