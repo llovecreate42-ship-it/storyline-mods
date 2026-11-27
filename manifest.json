@@ -1,5 +1,5 @@
 {
-  "version": 1795817483549,
+  "version": 1795817487068,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -140,6 +140,10 @@
     {
       "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+    },
+    {
+      "name": "irons_lib-1.21.1-2.4.0.jar",
+      "sha256": "bb283384114f1f872b982b2abceed073e69eb345451af2b14a966a532662a3cd"
     },
     {
       "name": "irons_spellbooks-1.21.1-3.16.4.jar",
