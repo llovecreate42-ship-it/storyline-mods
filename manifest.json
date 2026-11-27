@@ -1,10 +1,6 @@
 {
-  "version": 1795771174914,
+  "version": 1795771254281,
   "mods": [
-    {
-      "name": "architectury-13.0.12-neoforge.jar",
-      "sha256": "aa558d884c9d35399bf5471e042d6be30c32e4a1cf0a5d06a4480ad49dba3ac0"
-    },
     {
       "name": "create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.2.1.jar",
       "sha256": "706ff99b4f556690bc1b56c1dd407b4d091be52d8a680e1b5fbfef0a6902fe70"
