@@ -1,5 +1,5 @@
 {
-  "version": 1795770914569,
+  "version": 1795770917755,
   "mods": [
     {
       "name": "create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.2.1.jar",
@@ -36,6 +36,10 @@
     {
       "name": "ftb-quests-neoforge-2101.1.39.jar",
       "sha256": "40f9bea7bb96e8129303b0dc1b9e47b38234f52018ff332f967be03df07a466e"
+    },
+    {
+      "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
     },
     {
       "name": "sable-neoforge-1.21.1-2.0.6.jar",
