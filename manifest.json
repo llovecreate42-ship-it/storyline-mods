@@ -1,5 +1,5 @@
 {
-  "version": 1795817717020,
+  "version": 1795817724850,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -200,10 +200,6 @@
     {
       "name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
       "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
-    },
-    {
-      "name": "PlayerAnimationLibNeoforge-1.1.6+mc.1.21.1.jar",
-      "sha256": "e41ee06000fc95444a482018ec24b3f1e79eb111ca6b8ca119e61ceabf9136c5"
     },
     {
       "name": "Quick Skin - NeoForge - 1.21.1-5.0.2.jar",
