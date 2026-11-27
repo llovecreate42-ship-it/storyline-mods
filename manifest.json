@@ -1,5 +1,5 @@
 {
-  "version": 1795770902147,
+  "version": 1795770906290,
   "mods": [
     {
       "name": "create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.2.1.jar",
@@ -24,6 +24,10 @@
     {
       "name": "e4mc-neoforge-6.2.3.jar",
       "sha256": "6000692f216faa67f8a6be26fad6dffd54f1c229ee290f355cd42792c4cdbd57"
+    },
+    {
+      "name": "ftb-chunks-neoforge-2101.1.24.jar",
+      "sha256": "4fd569936a0dc966e114d92d98277baec6c9b8337b215a30648b63f9cb860a1f"
     },
     {
       "name": "sable-neoforge-1.21.1-2.0.6.jar",
