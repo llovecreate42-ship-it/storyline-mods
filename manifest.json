@@ -1,5 +1,5 @@
 {
-  "version": 1795816912708,
+  "version": 1795816916215,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -112,6 +112,10 @@
     {
       "name": "FurnitureModMedieval_1.0.1_NeoForge_1.21.1.jar",
       "sha256": "1ee4242d893076cc7cb49184609e95e4a28067c5a751a152995fd627ef4e1423"
+    },
+    {
+      "name": "geckolib-neoforge-1.21.1-4.9.5.jar",
+      "sha256": "a2d5340c5977a5fbfc74df12f6b43f9ed8f13960310b38863b87836775e3a6ca"
     },
     {
       "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
