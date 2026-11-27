@@ -1,5 +1,5 @@
 {
-  "version": 1795816943937,
+  "version": 1795816947272,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -140,6 +140,10 @@
     {
       "name": "justzoom_neoforge_3.1.0_MC_1.21.1.jar",
       "sha256": "636885577b2ec47b10abeb62d0f35d5b2267c88ed5c43ed7ea9b3955858cb314"
+    },
+    {
+      "name": "kazakh_delight-1.0.0.jar",
+      "sha256": "43bf422198aa4265ff2aa679dca66d6f9e3345443c451b408f6f68eed20f1b98"
     },
     {
       "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
