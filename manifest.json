@@ -1,5 +1,5 @@
 {
-  "version": 1795816891417,
+  "version": 1795816895250,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -76,6 +76,10 @@
     {
       "name": "e4all-neoforge-2.3.0.jar",
       "sha256": "9b00ae63f5c0678de08d9e1eefb578703295be9bd4414d5e0450fc30fc9f468b"
+    },
+    {
+      "name": "entityculling-neoforge-1.12.2-mc1.21.1.jar",
+      "sha256": "9b4cf7678e8d3e5ee6a2110ca56d5be247c89bce28269804723f2c16c4c2f914"
     },
     {
       "name": "ftb-chunks-neoforge-2101.1.24.jar",
