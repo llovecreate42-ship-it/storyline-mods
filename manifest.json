@@ -1,5 +1,5 @@
 {
-  "version": 1795816850294,
+  "version": 1795816853908,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -20,6 +20,10 @@
     {
       "name": "chipped-neoforge-1.21.1-4.0.2.jar",
       "sha256": "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291"
+    },
+    {
+      "name": "Chunky-NeoForge-1.4.23.jar",
+      "sha256": "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
     },
     {
       "name": "create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.2.1.jar",
