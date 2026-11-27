@@ -1,9 +1,13 @@
 {
-  "version": 1795816840164,
+  "version": 1795816843527,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
       "sha256": "23a8b4a21d0d8744f097c77c8a96fcba14c4b95f3b1bb542412f40dab272872e"
+    },
+    {
+      "name": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "sha256": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
     },
     {
       "name": "architectury-13.0.12-neoforge.jar",
