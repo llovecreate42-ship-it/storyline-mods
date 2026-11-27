@@ -1,5 +1,5 @@
 {
-  "version": 1795816929411,
+  "version": 1795816935899,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -128,6 +128,10 @@
     {
       "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+    },
+    {
+      "name": "irons_spellbooks-1.21.1-3.16.4.jar",
+      "sha256": "c4db1ace9dc8b7440e53186c1f481d967af23a936abbcca372f6317cd354f9fd"
     },
     {
       "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
