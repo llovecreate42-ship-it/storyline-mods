@@ -1,5 +1,5 @@
 {
-  "version": 1795816989277,
+  "version": 1795816997694,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -192,6 +192,10 @@
     {
       "name": "sodium-neoforge-0.8.13+mc1.21.1.jar",
       "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
+    },
+    {
+      "name": "supplementaries-1.21.1-4.1.4-neoforge.jar",
+      "sha256": "04bf0c80070fdcafd4dfc2f8a259d32ec7abc7c31b7667e00d01d67e77d5c7f0"
     }
   ]
 }
