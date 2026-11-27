@@ -1,5 +1,5 @@
 {
-  "version": 1795817497804,
+  "version": 1795817501678,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -196,6 +196,10 @@
     {
       "name": "Placebo-1.21.1-9.9.4.jar",
       "sha256": "d8952c019d6e54befe37155bc9876985ec57bf73dd33872115c7a65ac6bceba0"
+    },
+    {
+      "name": "PlayerAnimationLibNeoforge-1.1.6+mc.1.21.1.jar",
+      "sha256": "e41ee06000fc95444a482018ec24b3f1e79eb111ca6b8ca119e61ceabf9136c5"
     },
     {
       "name": "Quick Skin - NeoForge - 1.21.1-5.0.2.jar",
