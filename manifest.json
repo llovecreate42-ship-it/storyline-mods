@@ -1,5 +1,5 @@
 {
-  "version": 1795816947272,
+  "version": 1795816951124,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -144,6 +144,10 @@
     {
       "name": "kazakh_delight-1.0.0.jar",
       "sha256": "43bf422198aa4265ff2aa679dca66d6f9e3345443c451b408f6f68eed20f1b98"
+    },
+    {
+      "name": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "sha256": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
     },
     {
       "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
