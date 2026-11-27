@@ -1,5 +1,5 @@
 {
-  "version": 1795817182414,
+  "version": 1795817480725,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -16,6 +16,10 @@
     {
       "name": "architectury-13.0.12-neoforge.jar",
       "sha256": "aa558d884c9d35399bf5471e042d6be30c32e4a1cf0a5d06a4480ad49dba3ac0"
+    },
+    {
+      "name": "athena-neoforge-1.21.1-4.0.6.jar",
+      "sha256": "43699885bbce3343916d4c5c4940cf0e3f9f6f02fdeb46e8655e121b42282ec5"
     },
     {
       "name": "BetterPingDisplay-1.21.1-1.1.jar",
