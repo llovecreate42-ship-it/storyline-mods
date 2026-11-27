@@ -1,5 +1,5 @@
 {
-  "version": 1795816925470,
+  "version": 1795816929411,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -124,6 +124,10 @@
     {
       "name": "handson_delight-neoforge-1.21.1-1.8.0.jar",
       "sha256": "a227090996bc8f15cfbf4b2865fba43c4d62061949e9f41b72d46450d8e05143"
+    },
+    {
+      "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
     },
     {
       "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
