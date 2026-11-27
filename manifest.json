@@ -1,5 +1,5 @@
 {
-  "version": 1795816985726,
+  "version": 1795816989277,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -188,6 +188,10 @@
     {
       "name": "sable-photomancy-1.0.1.jar",
       "sha256": "1d0805f537f27ce3160488331755497417514a3dfb30d5ca3fdca1b000e7e920"
+    },
+    {
+      "name": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
     }
   ]
 }
