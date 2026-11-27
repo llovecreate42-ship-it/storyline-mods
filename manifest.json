@@ -1,5 +1,5 @@
 {
-  "version": 1795816921589,
+  "version": 1795816925470,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -120,6 +120,10 @@
     {
       "name": "glaidens_audio_mod-1.5.4-neoforge-1.21.1.jar",
       "sha256": "faf7ba5ff657d13090a49a62307f7533ed12c2cc455d3a44fbce219d81454ac4"
+    },
+    {
+      "name": "handson_delight-neoforge-1.21.1-1.8.0.jar",
+      "sha256": "a227090996bc8f15cfbf4b2865fba43c4d62061949e9f41b72d46450d8e05143"
     },
     {
       "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
