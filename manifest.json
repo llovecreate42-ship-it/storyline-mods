@@ -1,5 +1,5 @@
 {
-  "version": 1795816862280,
+  "version": 1795816865614,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -32,6 +32,10 @@
     {
       "name": "CraftTweaker-neoforge-1.21.1-21.0.38.jar",
       "sha256": "4c4a95ca706e1aec41145b2db32737f2aebf1fdedefda0b35b651cad3fa4abaf"
+    },
+    {
+      "name": "crawl-0.14.9.jar",
+      "sha256": "e4c76b65de9505ffc5ddc7cd90f48dc6be4da0c1a20772c19d85bb94c350036e"
     },
     {
       "name": "create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.2.1.jar",
