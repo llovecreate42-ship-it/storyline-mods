@@ -1,5 +1,5 @@
 {
-  "version": 1795817501678,
+  "version": 1795817505180,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -208,6 +208,10 @@
     {
       "name": "recipe_generator-0.3.0_release-neoforge-1.21.1.jar",
       "sha256": "4e55745d171aa8f04d8b9ca0e7fea3fbf2657519f107206b669d8915609907da"
+    },
+    {
+      "name": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "sha256": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
     },
     {
       "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
