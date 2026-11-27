@@ -1,5 +1,5 @@
 {
-  "version": 1795817101149,
+  "version": 1795817104890,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -172,6 +172,10 @@
     {
       "name": "ParCool-1.21.1-4.0.2.0.jar",
       "sha256": "82363025dff28359d740c19457b37ce80fd142a1ebc75df96cd85e2dc12c05ef"
+    },
+    {
+      "name": "Placebo-1.21.1-9.9.4.jar",
+      "sha256": "d8952c019d6e54befe37155bc9876985ec57bf73dd33872115c7a65ac6bceba0"
     },
     {
       "name": "Quick Skin - NeoForge - 1.21.1-5.0.2.jar",
