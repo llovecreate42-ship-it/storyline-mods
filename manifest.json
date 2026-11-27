@@ -1,5 +1,5 @@
 {
-  "version": 1795816954737,
+  "version": 1795816959475,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -152,6 +152,10 @@
     {
       "name": "letsdo-foundation-neoforge-1.1.0.jar",
       "sha256": "d791a82c8dc26e7c9194de82b5fa6d918adbd5cd219e6d962e354df1f0e6ace1"
+    },
+    {
+      "name": "letsdo-meadow-neoforge-1.4.11.jar",
+      "sha256": "96c240d3d49b4b18f5040ab918cb72a03280075a36591d06523bf7bba7be7321"
     },
     {
       "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
