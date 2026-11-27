@@ -1,5 +1,5 @@
 {
-  "version": 1795817493301,
+  "version": 1795817497804,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -184,6 +184,10 @@
     {
       "name": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
       "sha256": "7010aae2e837122fe8dabd5932358e2ba334fcbc62ca6530cb1cb00402d2c63b"
+    },
+    {
+      "name": "moonlight-1.21.1-3.8.5-neoforge.jar",
+      "sha256": "dbba1d1a3af835356c8504dee2adc2fc18d1141fbd0c93dfe08c0951e21a48e0"
     },
     {
       "name": "ParCool-1.21.1-4.0.2.0.jar",
