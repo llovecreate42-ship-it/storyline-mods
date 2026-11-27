@@ -1,6 +1,10 @@
 {
-  "version": 1795768198478,
+  "version": 1795770887747,
   "mods": [
+    {
+      "name": "create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.2.1.jar",
+      "sha256": "706ff99b4f556690bc1b56c1dd407b4d091be52d8a680e1b5fbfef0a6902fe70"
+    },
     {
       "name": "create-1.21.1-6.0.10.jar",
       "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
