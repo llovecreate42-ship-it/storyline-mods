@@ -1,5 +1,5 @@
 {
-  "version": 1795816963786,
+  "version": 1795816967630,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -160,6 +160,10 @@
     {
       "name": "letsdo-vinery-neoforge-1.5.6.jar",
       "sha256": "7e5e4e901a599a499bd510490ec12e72e8547e53b61790778fa7848852c451ec"
+    },
+    {
+      "name": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
+      "sha256": "7010aae2e837122fe8dabd5932358e2ba334fcbc62ca6530cb1cb00402d2c63b"
     },
     {
       "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
