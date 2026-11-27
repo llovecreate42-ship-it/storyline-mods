@@ -1,5 +1,5 @@
 {
-  "version": 1795771108342,
+  "version": 1795771111618,
   "mods": [
     {
       "name": "architectury-13.0.12-neoforge.jar",
@@ -40,6 +40,10 @@
     {
       "name": "ftb-quests-neoforge-2101.1.39.jar",
       "sha256": "40f9bea7bb96e8129303b0dc1b9e47b38234f52018ff332f967be03df07a466e"
+    },
+    {
+      "name": "ftb-teams-neoforge-2101.1.12.jar",
+      "sha256": "b3f33436070b7ae4a706280561f1d2f1d1eb1a089cb13ec9851e99646165aed2"
     },
     {
       "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
