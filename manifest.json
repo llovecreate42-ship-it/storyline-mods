@@ -1,9 +1,13 @@
 {
-  "version": 1795808176700,
+  "version": 1795810019153,
   "mods": [
     {
       "name": "architectury-13.0.12-neoforge.jar",
       "sha256": "aa558d884c9d35399bf5471e042d6be30c32e4a1cf0a5d06a4480ad49dba3ac0"
+    },
+    {
+      "name": "BetterPingDisplay-1.21.1-1.1.jar",
+      "sha256": "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b"
     },
     {
       "name": "create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.2.1.jar",
