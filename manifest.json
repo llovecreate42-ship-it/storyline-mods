@@ -1,5 +1,5 @@
 {
-  "version": 1795817001075,
+  "version": 1795817005716,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -200,6 +200,10 @@
     {
       "name": "tpshudneoforge-1.1.0.jar",
       "sha256": "7952bdf4f818d3da1383eee199b1187cf5fccd9ddcc01398bb25fb5ae3a7918e"
+    },
+    {
+      "name": "worldedit-mod-7.3.8.jar",
+      "sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
     }
   ]
 }
