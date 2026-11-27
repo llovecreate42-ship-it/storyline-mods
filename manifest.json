@@ -1,5 +1,5 @@
 {
-  "version": 1795816978452,
+  "version": 1795816982067,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -172,6 +172,10 @@
     {
       "name": "Quick Skin - NeoForge - 1.21.1-5.0.2.jar",
       "sha256": "382174dff844279538894db61b178595a0883a7630feaad0ecc8d3bd9580048b"
+    },
+    {
+      "name": "recipe_generator-0.3.0_release-neoforge-1.21.1.jar",
+      "sha256": "4e55745d171aa8f04d8b9ca0e7fea3fbf2657519f107206b669d8915609907da"
     },
     {
       "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
