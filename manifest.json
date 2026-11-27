@@ -1,5 +1,5 @@
 {
-  "version": 1795808166300,
+  "version": 1795808176700,
   "mods": [
     {
       "name": "architectury-13.0.12-neoforge.jar",
@@ -24,6 +24,10 @@
     {
       "name": "createbigcannons-5.11.7+mc.1.21.1.jar",
       "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
+    },
+    {
+      "name": "e4all-neoforge-2.3.0.jar",
+      "sha256": "9b00ae63f5c0678de08d9e1eefb578703295be9bd4414d5e0450fc30fc9f468b"
     },
     {
       "name": "ftb-chunks-neoforge-2101.1.24.jar",
