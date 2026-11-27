@@ -1,5 +1,5 @@
 {
-  "version": 1795816895250,
+  "version": 1795816900758,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -80,6 +80,10 @@
     {
       "name": "entityculling-neoforge-1.12.2-mc1.21.1.jar",
       "sha256": "9b4cf7678e8d3e5ee6a2110ca56d5be247c89bce28269804723f2c16c4c2f914"
+    },
+    {
+      "name": "epic-fight-21.17.3.1-mc1.21.1-neoforge.jar",
+      "sha256": "8b882554cf10086398340fbdc741819ee72a801a3adce516c7f4768326a39526"
     },
     {
       "name": "ftb-chunks-neoforge-2101.1.24.jar",
