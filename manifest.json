@@ -1,5 +1,5 @@
 {
-  "version": 1795770892939,
+  "version": 1795770898201,
   "mods": [
     {
       "name": "create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.2.1.jar",
@@ -16,6 +16,10 @@
     {
       "name": "create-aeronautics-bundled-1.21.1-1.3.3.jar",
       "sha256": "f430c52eedc1a20f7458c9f5b07cc212fe90869bd302c69c6dedf7b75a2a5c9f"
+    },
+    {
+      "name": "createbigcannons-5.11.7+mc.1.21.1.jar",
+      "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
     },
     {
       "name": "sable-neoforge-1.21.1-2.0.6.jar",
