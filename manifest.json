@@ -1,5 +1,5 @@
 {
-  "version": 1795859901181,
+  "version": 1795859905294,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -200,6 +200,10 @@
     {
       "name": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
       "sha256": "7010aae2e837122fe8dabd5932358e2ba334fcbc62ca6530cb1cb00402d2c63b"
+    },
+    {
+      "name": "modonomicon-1.21.1-neoforge-1.123.1.jar",
+      "sha256": "11d0fc92cdfb2db646c7ee9d8fa821a6dc26c82e4ee713d1ece2764375ee3227"
     },
     {
       "name": "moonlight-1.21.1-3.8.5-neoforge.jar",
