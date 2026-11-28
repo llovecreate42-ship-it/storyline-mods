@@ -1,5 +1,5 @@
 {
-  "version": 1795859559687,
+  "version": 1795859901181,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -32,6 +32,10 @@
     {
       "name": "Chunky-NeoForge-1.4.23.jar",
       "sha256": "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
+    },
+    {
+      "name": "cloth-config-15.0.140-neoforge.jar",
+      "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
     },
     {
       "name": "copycats-3.0.11+mc.1.21.1-neoforge.jar",
