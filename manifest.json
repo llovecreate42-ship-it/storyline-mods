@@ -1,5 +1,5 @@
 {
-  "version": 1795859414325,
+  "version": 1795859429192,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -76,6 +76,10 @@
     {
       "name": "diegesis-neoforge-1.21.1-1.0.0-beta.19.4.jar",
       "sha256": "bee4008962688e2d7b9263e7ec86c47ada1493cf775e7f5716bb4c71b7f3cb9f"
+    },
+    {
+      "name": "DistantHorizons-3.0.1-b-1.21.1-fabric-neoforge.jar",
+      "sha256": "07b76558fedc394601888e00b4275bfd9b1c68176d046c7bc5d6783557f2aa60"
     },
     {
       "name": "dupefix-1.21.1-1.3.0.jar",
