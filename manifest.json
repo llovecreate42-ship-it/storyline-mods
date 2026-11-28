@@ -1,5 +1,5 @@
 {
-  "version": 1795859429192,
+  "version": 1795859551710,
   "mods": [
     {
       "name": "Apotheosis-1.21.1-8.9.0.jar",
@@ -96,6 +96,10 @@
     {
       "name": "epic-fight-21.17.3.1-mc1.21.1-neoforge.jar",
       "sha256": "8b882554cf10086398340fbdc741819ee72a801a3adce516c7f4768326a39526"
+    },
+    {
+      "name": "epic-knights-1.21.1-neoforge-10.17.jar",
+      "sha256": "4ee72a5d58f926f0d34a0c6add8a011b27e3a150f45da3212feeb0c02fcab09b"
     },
     {
       "name": "FarmersDelight-1.21.1-1.3.4.jar",
